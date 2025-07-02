@@ -4,32 +4,34 @@
 The Pizza Sales Analysis Dashboard is an interactive Power BI report designed to visualize key performance metrics and uncover insights from a pizza restaurant’s sales data. It enables decision-makers to track sales trends, evaluate peak business hours, and optimize inventory and operations.
 
 ### 2. Purpose   
-The Sample Superstore Profit Dashboard in Power BI is a business intelligence tool designed to analyze and visualize the profitability of a retail business. Its primary purpose is to provide clear insights into sales performance, profit margins, and loss areas across various dimensions such as regions, product categories, customer segments, and time periods. By using interactive visuals like charts, maps, and KPI cards, the dashboard helps business users quickly identify trends, monitor key metrics, and make informed decisions to drive growth and improve overall profitability.
+The purpose of the Pizza Sales Analysis Dashboard is to provide a comprehensive and interactive view of sales performance for a pizza business. It is designed to help business owners, managers, and stakeholders understand key aspects such as peak sales hours, customer preferences, and revenue trends. By visualizing data in a clear and insightful manner, the dashboard enables faster and smarter decision-making related to marketing strategies, inventory control, and operational efficiency. Ultimately, it transforms raw sales data into actionable insights that drive growth and profitability.
 
 ### 3. Tech Stack  
 The dashboard was built using the following tools and technologies:
 - 📈 Power BI Desktop - Main data visualization platform used for report creation.
-- 📝 Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
+- 📁 Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
 - 🧠 DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visuals and conditional logic.
+- 📝 Data Modeling - Relationships established among tables to enable cross-filtering and aggregation.
 - 📂 File Format - .pbix for development and .png for dashboard previews.
 
 ### 4. Data Source   
-Source: Kaggle.com
+Source: Github.com
 
-The dataset contains detailed records of customer orders, including sales, profit, shipping details, and customer demographics. This dataset is structured to help users perform business analysis, particularly in sales and profitability.
+The dataset used for the Pizza Sales Analysis Dashboard includes details such as Order ID, Date and Time, Pizza Name, Size, Category, Quantity, Unit Price, and Total Price. It provides a complete view of each transaction, helping analyze sales trends, and customer preferences.
 
 ### 5. Highlights
 - Business Problem:
-The Sample Superstore Profit Dashboard helps businesses identify profitable and loss-making areas by analyzing sales, profit trends, product performance, and regional data. It supports data-driven decisions to improve overall profitability and operational efficiency.
+The dataset helps solve business problems such as understanding peak sales hours, analyzing customer preferences, and tracking revenue trends. It addresses challenges related to inventory management, menu optimization, and staffing by providing data-driven insights that support smarter decision-making and improved operational efficiency.
 
 - Goal of the Dashboard:
-The goal of the Sample Superstore Profit Dashboard is to provide a clear and interactive view of the company’s profitability across products, regions, and customer segments, enabling stakeholders to make informed decisions that enhance business performance and profit growth.
+The goal of the Pizza Sales Analysis Dashboard is to present sales data in a clear, interactive, and visual format that helps business owners and managers monitor performance, identify trends, and make informed decisions. It aims to uncover insights such as peak sales periods, and revenue patterns, ultimately supporting better planning, increased customer satisfaction, and business growth.
 
 - Business Impact & Insights:
-  - Improved Profitability: By identifying high-performing and loss-making products, regions, and segments, businesses can focus on what works and cut down inefficiencies.
-  - Better Strategic Decisions: Clear insights into profit trends and discount impact help in setting smarter pricing, marketing, and inventory strategies.
-  - Customer & Regional Focus: Businesses can target the most profitable customer segments and regions, improving ROI on sales efforts.
-  - Operational Efficiency: Identifying areas with consistent losses enables corrective actions, such as revising shipping methods, adjusting discounts, or changing suppliers.
-### Screenshot
-overview of Dashboard:
+  - 📅 Sales peaked on Thursday-Friday and during afternoon hours, helping optimize staffing and preparation.
+  - 💰 Average Order Value (AOV) trends helped introduce targeted discounts and bundled offers to increase sales.
+  - 🧾 Real-time tracking of sales and revenue improved business planning and forecasting accuracy.
+  - 🎯 Enabled data-driven decisions in promotions, pricing, inventory, and operations, leading to increased efficiency and profitability.
+
+### 6. Screenshot
+Overview of Dashboard:
 <img src= 'snapshot of pizza sales analysis.png'>
