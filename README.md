@@ -1,6 +1,7 @@
 # Pizza-Sales-Analysis
 ### 1. Project Title   
 🍕 Pizza Sales Analytics: Pizza Sales Insights Dashboard
+
 The Pizza Sales Analysis Dashboard is an interactive Power BI report designed to visualize key performance metrics and uncover insights from a pizza restaurant’s sales data. It enables decision-makers to track sales trends, evaluate peak business hours, and optimize inventory and operations.
 
 ### 2. Purpose   
